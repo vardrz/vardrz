@@ -8,12 +8,12 @@
 [![GitHub](https://img.shields.io/badge/vardrz-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vardrz)
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp; I like to explore new technologies and develop web application. \
+💡 &nbsp;&nbsp; I like to explore new technologies and develop web application. \
 🎓 &nbsp; I'm currently studying Informatics Engineering at STMIK Widya Pratama Pekalongan. \
 🌱 &nbsp; I'm on track for learning more about Web Development, Android Development, and Internet of Things. \
 ✍️ &nbsp; In my free time, I play guitar and football as my hobbies. \
 ✉️ &nbsp; You can contact me by email at fatkhurrozakf@gmail.com. I will gladly respond as soon as possible. \
-📄 &nbsp; You can check my [Portfolio Page](http://vard.my.id) for more details about project experience. \
+📄 &nbsp;&nbsp; You can check my [Portfolio Page](http://vard.my.id) for more details about project experience. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -22,7 +22,7 @@
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%23284ff0.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) \
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
