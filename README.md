@@ -1,9 +1,11 @@
 ![BannerGIF](./profile.gif)
 
 
-### <img src="./hand.gif" width='40' align="left"/><h2>Hey there! I'm Farid Fatkhurrozak</h2>
-![profile count](https://komarev.com/ghpvc/?username=vardrz&color=red)&nbsp;
-[![GitHub vardrz](https://img.shields.io/github/followers/vardrz?label=follow&style=social)](https://github.com/vardrz)&nbsp;
+### <img src="./hand.gif" width='30' align="left"/> <h2>Hey there! I'm Farid Fatkhurrozak</h2> 
+[![Website](https://img.shields.io/badge/vard.my.id-0a7d29?style=for-the-badge&logo=google-chrome&logoColor=white)](http://vard.my.id)&nbsp;
+[![Email](https://img.shields.io/badge/fatkhurrozakf@gmail.com-9e0b06?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatkhurrozakf@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/vard.rz-a010cc?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/vard.rz)&nbsp;
+[![GitHub](https://img.shields.io/badge/vardrz-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vardrz)
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp; I like to explore new technologies and develop web application. \
@@ -11,7 +13,9 @@
 🌱 &nbsp; I'm on track for learning more about Web Development, Android Development, and Internet of Things. \
 ✍️ &nbsp; In my free time, I play guitar and football as my hobbies. \
 ✉️ &nbsp; You can contact me by email at fatkhurrozakf@gmail.com. I will gladly respond as soon as possible. \
-📄 &nbsp; You can check my [Portfolio Page](http://vard.my.id) for more details about project experience.
+📄 &nbsp; You can check my [Portfolio Page](http://vard.my.id) for more details about project experience. \
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ### 🛠 &nbsp;Tech Stack
