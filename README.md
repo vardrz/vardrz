@@ -1,7 +1,7 @@
-![BannerGIF](./assets/profile.gif)
+![BannerGIF](./profile.gif)
 
 
-### <img src="./assets/hand.gif" width='40' align="left"/><h2>Hey there! I'm Farid Fatkhurrozak</h2>
+### <img src="./hand.gif" width='40' align="left"/><h2>Hey there! I'm Farid Fatkhurrozak</h2>
 ![profile count](https://komarev.com/ghpvc/?username=vardrz&color=red)&nbsp;
 [![GitHub vardrz](https://img.shields.io/github/followers/vardrz?label=follow&style=social)](https://github.com/vardrz)&nbsp;
 
