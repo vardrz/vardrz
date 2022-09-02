@@ -1,7 +1,7 @@
 ![BannerGIF](./profile.gif)
 
 
-### <img src="./hand.gif" width='30' align="left"/> <h2>Hey there! I'm Farid Fatkhurrozak</h2> 
+### <img src="./hand.gif" width='30' align="left"/> <h2>Hey there! I'm Using Github</h2> 
 [![Website](https://img.shields.io/badge/vard.my.id-0a7d29?style=for-the-badge&logo=google-chrome&logoColor=white)](http://vard.my.id)&nbsp;
 [![Email](https://img.shields.io/badge/fatkhurrozakf@gmail.com-9e0b06?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatkhurrozakf@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/vard.rz-a010cc?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/vard.rz)&nbsp;
