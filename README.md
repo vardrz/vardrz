@@ -2,18 +2,17 @@
 
 
 ### <img src="./hand.gif" width='30' align="left"/> <h2>Hey there! I'm Using Github</h2> 
-[![Website](https://img.shields.io/badge/vard.my.id-0a7d29?style=for-the-badge&logo=google-chrome&logoColor=white)](http://vard.my.id)&nbsp;
+[![Website](https://img.shields.io/badge/vardis.me-0a7d29?style=for-the-badge&logo=google-chrome&logoColor=white)](http://vardis.me)&nbsp;
 [![Email](https://img.shields.io/badge/fatkhurrozakf@gmail.com-9e0b06?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatkhurrozakf@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/vard.rz-a010cc?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/vard.rz)&nbsp;
 [![GitHub](https://img.shields.io/badge/vardrz-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vardrz)
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;&nbsp; I like to explore new technologies and develop web application. \
-🎓 &nbsp; I'm currently studying Informatics Engineering at STMIK Widya Pratama Pekalongan. \
-🌱 &nbsp; I'm on track for learning more about Web Development, Android Development, and Internet of Things. \
-✍️ &nbsp; In my free time, I play guitar and football as my hobbies. \
+💡 &nbsp;&nbsp; I like to explore technologies and develop web application. \
+🎓 &nbsp; I'm active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
+🌱 &nbsp; I'm on track for learning about Web Development, Android Development, and Internet of Things. \
 ✉️ &nbsp; You can contact me by email at fatkhurrozakf@gmail.com. I will gladly respond as soon as possible. \
-📄 &nbsp;&nbsp; You can check my [Portfolio Page](http://vard.my.id) for more details about project experience. 
+📄 &nbsp;&nbsp; Check [Portfolio Page](http://vardis.me) to get more information about me. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
 
