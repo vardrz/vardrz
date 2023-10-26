@@ -12,7 +12,7 @@
 🎓 &nbsp; I'm active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
 🌱 &nbsp; I'm on track for learning about Web Development, Android Development, and Internet of Things. \
 ✉️ &nbsp; You can contact me by email at fatkhurrozakf@gmail.com. I will gladly respond as soon as possible. \
-📄 &nbsp;&nbsp; Check [Portfolio Page](http://vardis.me) to get more information about me. 
+📄 &nbsp;&nbsp; Check [Portfolio Page](http://vaard.site) to get more information about me. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
 
