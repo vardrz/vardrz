@@ -1,18 +1,12 @@
-![BannerGIF](./profile.gif)
+### Hey there! I'm Farid! <img src="./hand.gif" width='30'/>
 
+[![Website](https://img.shields.io/static/v1?label=vaard.site&message=%20&color=green&logo=google-chrome&style=flat-square&logoColor=white)](https://vaard.site)&nbsp;
+[![Email](https://img.shields.io/static/v1?label=fatkhurrozak@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:fatkhurrozak@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/static/v1?label=vard.rz&message=%20&color=purple&logo=Instagram&style=flat-square&logoColor=white)](http://instagram.com/vard.rz)
 
-### <img src="./hand.gif" width='30' align="left"/> <h2>Hey there! I'm Using Github</h2> 
-[![Website](https://img.shields.io/badge/vardis.me-0a7d29?style=for-the-badge&logo=google-chrome&logoColor=white)](http://vardis.me)&nbsp;
-[![Email](https://img.shields.io/badge/fatkhurrozakf@gmail.com-9e0b06?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatkhurrozakf@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/vard.rz-a010cc?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/vard.rz)&nbsp;
-[![GitHub](https://img.shields.io/badge/vardrz-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vardrz)
-
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;&nbsp; I like to explore technologies and develop web application. \
-🎓 &nbsp; I'm active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
-🌱 &nbsp; I'm on track for learning about Web Development, Android Development, and Internet of Things. \
-✉️ &nbsp; You can contact me by email at fatkhurrozakf@gmail.com. I will gladly respond as soon as possible. \
-📄 &nbsp;&nbsp; Check [Portfolio Page](http://vaard.site) to get more information about me. 
+👨🏻‍💻 &nbsp; Love to explore web technologies and applications. \
+🎓 &nbsp; Currently an active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
+💡 &nbsp; On track for learning about Web Development, Mobile Development, and Internet of Things.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -20,11 +14,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%23284ff0.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) \
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
