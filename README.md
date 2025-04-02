@@ -8,8 +8,6 @@
 🎓 &nbsp; Currently an active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
 💡 &nbsp; On track for learning about Web Development, Mobile Development, and Internet of Things.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvardrz&count_bg=%23078c09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com)
-
 
 ### 🛠 &nbsp;Tech Stack
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)&nbsp;
