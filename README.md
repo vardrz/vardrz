@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=vard.rz&message=%20&color=purple&logo=Instagram&style=flat-square&logoColor=white)](http://instagram.com/vard.rz)
 
 👨🏻‍💻 &nbsp; Love to explore web technologies and applications. \
-🎓 &nbsp; Currently an active student of Informatics Engineering at STMIK Widya Pratama Pekalongan. \
+🎓 &nbsp; Currently an active student of Informatics Engineering at Widya Pratama Institute of Pekalongan. \
 💡 &nbsp; On track for learning about Web Development, Mobile Development, and Internet of Things.
 
 
