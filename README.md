@@ -1,4 +1,4 @@
-### Hey there! I'm Farid! <img src="./hand.gif" width='30'/>
+### Hi! I'm Farid! <img src="./hand.gif" width='30'/>
 
 [![Website](https://img.shields.io/static/v1?label=vardworks.site&message=%20&color=green&logo=google-chrome&style=flat-square&logoColor=white)](https://vardworks.site)&nbsp;
 [![Email](https://img.shields.io/static/v1?label=fatkhurrozak@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:fatkhurrozak@gmail.com)&nbsp;
