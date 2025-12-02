@@ -29,9 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Activity Graph](https://ghchart.rshah.org/vardrz)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardrz&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Activity Graph](https://ghchart.rshah.org/vardrz)
 
 ---
 
@@ -41,6 +39,4 @@
 - DevOps & CI/CD workflow
 
 ### 🤝 Let's Collaborate!
-> I love building things that **solve real problems**, not just look good.
-
 📩 [Email](mailto:fatkhurrozakf@gmail.com) • 🌐 [Website](https://vard.is-a.dev) • 📸 [Instagram](http://instagram.com/vard.rz)
