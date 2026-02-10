@@ -29,10 +29,6 @@
 
 ---
 
-![Activity Graph](https://ghchart.rshah.org/vardrz)
-
----
-
 ### 🌱 Currently Learning
 - Advanced Golang (microservices, WebSocket, background jobs)
 - React Native performance optimization
