@@ -35,4 +35,4 @@
 - DevOps & CI/CD workflow
 
 ### 🤝 Let's Collaborate!
-📩 [Email](mailto:fatkhurrozakf@gmail.com) • 🌐 [Website](https://vard.is-a.dev) • 📸 [Instagram](http://instagram.com/vard.rz)
+[Email](mailto:fatkhurrozakf@gmail.com) • [Website](https://vard.is-a.dev) • [Instagram](http://instagram.com/vard.rz)
